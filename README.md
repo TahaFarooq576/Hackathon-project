@@ -32,3 +32,4 @@ Welcome to the Fast Food Delivery App – your ultimate solution for quick and c
 - **Tailwind CSS**: Our user interface is styled with Tailwind CSS, a utility-first CSS framework known for its rapid and responsive design development.
 
 - **Firebase**: We rely on Firebase for user authentication, ensuring a secure and reliable environment for account creation and login.
+"# Food-delivery-app" 
